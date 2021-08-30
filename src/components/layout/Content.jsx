@@ -3,7 +3,7 @@ import { Switch, Route }from "react-router-dom"
 import About from "../../views/examples/About"
 import Home from "../../views/examples/Home"
 import Parameter from "../../views/examples/Parameter"
-import NotFound from "../../views/examples/Parameter"
+import NotFound from "../../views/examples/NotFound"
 import "./Content.css"
 
 const Content = (props) => {
